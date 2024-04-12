@@ -1,0 +1,12 @@
+backend_app_name = "node-backend"
+frontend_app_name = "node-frontend"
+project_name = "Challenge-node-app"
+cpu = 1024
+memory = 2048
+cluster_name = "Challenge"
+backend_port = 8080
+frontend_port = 3000
+region = "us-east-2"
+VPC_cidr = "10.10.0.0/16"
+AZ1 = "us-east-2a"
+AZ2 = "us-east-2b"
